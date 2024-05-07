@@ -1,7 +1,7 @@
 (() =>
     {
         const imageFilePath = "assets/images/";
-        const numImages = 4;
+        const numImages = 10;
         const flipRandomPercent = 2; //NOTE: the number represents how many numbers to randomly choose. bigger = less likely, smaller = more likely.
         var isEnabled = true;
 
